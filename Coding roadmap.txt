@@ -1,0 +1,8 @@
+			***************************** CODING ROADMAP ****************************
+
+1. Striver videos + revision of all the concepts
+2. Solve striver sheet
+3. Solve leetcode sheets + Solve CP31
+4. Solve CSES sheet
+5. Solve codeforces sheet + ICPC + IOI PYQS
+6. Solve different Company questions
